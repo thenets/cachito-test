@@ -62,3 +62,4 @@ wcwidth==0.2.6
 wheel==0.40.0
 zipp==3.15.0
 calver==2022.6.26
+setuptools-rust==1.5.2
