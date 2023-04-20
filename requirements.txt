@@ -19,6 +19,7 @@ hatch==1.7.0
 hatch-fancy-pypi-readme==22.8.0
 hatchling==1.14.0
 hatch-vcs==0.3.0
+httpcore==0.17.0
 httpx==0.24.0
 hyperlink==21.0.0
 idna==3.4
