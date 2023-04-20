@@ -41,6 +41,7 @@ poetry-core==1.5.2
 prompt-toolkit==3.0.38
 ptyprocess==0.7.0
 pycparser==2.21
+pygments==2.15.1
 pyperclip==1.8.2
 pyproject-hooks==1.0.0
 python-dateutil==2.8.2
