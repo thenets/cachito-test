@@ -19,3 +19,4 @@ wcwidth==0.2.6
 hatch==1.7.0
 hatchling==1.14.0
 pathspec==0.11.1
+flit-core==3.8.0
