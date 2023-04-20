@@ -1,20 +1,2 @@
--e git+https://github.com/aws/aws-cli.git@b3b67e556e6a32764c46daee4e4c688276f0b19a#egg=awscli
-awscrt==0.16.15
-cffi==1.15.1
-colorama==0.4.6
-cryptography==40.0.1
-distro==1.8.0
-docutils==0.19
-jmespath==1.0.1
-pip==22.2.2
-prompt-toolkit==3.0.38
-pycparser==2.21
-python-dateutil==2.8.2
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.7
-setuptools==62.6.0
-six==1.16.0
-urllib3==1.26.15
-wcwidth==0.2.6
 hatch==1.7.0
 hatchling==1.14.0
