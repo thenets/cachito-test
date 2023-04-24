@@ -1,6 +1,6 @@
 -e git+https://github.com/aws/aws-cli.git@b3b67e556e6a32764c46daee4e4c688276f0b19a#egg=awscli
 anyio==3.6.2
-awscrt==0.16.16
+awscrt==0.16.15
 build==0.10.0
 calver==2022.6.26
 certifi==2022.12.7
