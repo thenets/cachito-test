@@ -15,6 +15,7 @@ editables==0.3
 exceptiongroup==1.1.1
 filelock==3.12.0
 flit-core==3.8.0
+flit-scm==1.7.0
 h11==0.14.0
 hatch==1.7.0
 hatch-fancy-pypi-readme==22.8.0
